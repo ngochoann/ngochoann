@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @ngochoann
+- 👋 Hi, I’m Nguyễn Ngọc Hoàn
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ngochoann/ngochoann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-tôi là Nguyễn Ngọc Hoàn 
-đến từ Việt Nam
-Là người đẹp trai nhất thế gới
+- 🌱 I’m currently learning THPT Bắc Yên Thành
+- 💞️ I am in need to like you
+- 📫 NGoc Hoan hihi
